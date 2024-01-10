@@ -12,6 +12,6 @@ For the main DASF project, please visit the link above.
 
 ## DASF on Kubernetes
 
-This project aims at enabling the deployment of a ARGO and DASF environment in a kubernetes cluster. The project repository is available at:
+This project aims at enabling the deployment of a ARGO and DASF environment in a kubernetes cluster. The project report is available at:
 
 PFG 66 Ramon Galate.pdf
